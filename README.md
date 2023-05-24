@@ -2,10 +2,15 @@
 Tuned Colors vkBasalt Tears of the Kingdom
 
 [Comparison 1](https://imgsli.com/MTgwNDY4)
+
 [Comparison 2](https://imgsli.com/MTgwNDcw)
+
 [Comparison 3](https://imgsli.com/MTgwNDcx)
+
 [Comparison 4](https://imgsli.com/MTgwNDcy)
+
 [Comparison 5](https://imgsli.com/MTgwNDcz)
+
 [Comparison 6](https://imgsli.com/MTgwNDc0)
 
 Obviously with Linux, you'll need vkBasalt installed, figure this out for your distro, I'm not helping you there. Secondly, you'll need to know how to enable vkBasalt for whatever emulator you're using, doesn't really matter which one, it should apply to any and all, as always [documentation is your friend](https://github.com/DadSchoorse/vkBasalt). 
